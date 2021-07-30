@@ -12,7 +12,7 @@ public class Program {
 
 		do {
 			iniciador = sc.next().charAt(0);
-			System.out.println("Informe S para prosseguir.");
+			System.out.println("Digite 's' para prosseguir.");
 		} while (iniciador != 's');
 
 		System.out.print("O seu número da sórte é ");
